@@ -5,11 +5,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=art3mes&label=Profile%20views&color=df95f4&style=flat" alt="art3mes" /> </p>
 
-- 🌱 I’m currently learning **Flutter and DevOps**
+ 🕷 I’m currently learning **Flutter and DevOps**
 
-- 👨‍💻 All of my projects are available at [https://artemisreiss.wordpress.com/](https://artemisreiss.wordpress.com/)
+ 🎐 All of my projects are available at [https://artemisreiss.wordpress.com/](https://artemisreiss.wordpress.com/)
 
-- 📫 You can reach out to me via **arty.mohammadali@gmail.com**
+ 🍁 You can reach out to me via **arty.mohammadali@gmail.com**
 
 
 
