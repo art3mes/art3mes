@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=art3mes&label=Profile%20views&color=df95f4&style=flat" alt="art3mes" /> </p>
 
- 🕷 I’m currently working as a full-time Software Developer**
+ 🕷 I’m currently working as a full-time **Software Developer.**
 
  🎐 All of my projects are available at [https://artemisreiss.wordpress.com/](https://artemisreiss.wordpress.com/)
 
