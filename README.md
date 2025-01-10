@@ -1,11 +1,11 @@
 
 
 <h1 align="left">I'm Mohammad Ali</h1>
-<h3 align="left">Enthusiastic and well-organized fourth-year undergraduate student with a passion for technology. <br> Experienced in data science, machine learning, and full-stack web development (MERN stack) <br>alongwith Python development.</h3>
+<h3 align="left">Enthusiastic and well-organized problem-solver with a passion for technology. <br> Experienced in data science, machine learning, and full-stack web development <br>alongwith Python development.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=art3mes&label=Profile%20views&color=df95f4&style=flat" alt="art3mes" /> </p>
 
- 🕷 I’m currently learning **Flutter and DevOps**
+ 🕷 I’m currently working as a full-time Software Developer**
 
  🎐 All of my projects are available at [https://artemisreiss.wordpress.com/](https://artemisreiss.wordpress.com/)
 
