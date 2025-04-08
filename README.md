@@ -7,7 +7,7 @@
 
  🕷 I’m currently working as a full-time **Software Developer.**
 
- 🎐 All of my projects are available at [https://artemisreiss.wordpress.com/](https://artemisreiss.wordpress.com/)
+ 🎐 The weather is nice today, isn't it?
 
  🍁 You can reach out to me via **arty.mohammadali@gmail.com**
 
